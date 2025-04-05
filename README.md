@@ -1,6 +1,6 @@
 # 🎯 CustomAlertView-SwiftUI
 
-A simple, reusable, and SOLID-compliant popover system built using SwiftUI + UIKit.
+A simple, reusable, popover system built using SwiftUI + UIKit.
 
 ---
 
